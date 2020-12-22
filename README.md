@@ -4,7 +4,7 @@ This is a Image Restoration Program using Fast marching method and naiver-stokes
 How To Run
 1) Download the respective models: 
                                    
-                                   pip install cv2;    
+                                   pip install opencv-python;    
 
                                    pip install matplotlib;
                                    
